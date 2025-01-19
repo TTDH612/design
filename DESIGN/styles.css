@@ -3,7 +3,7 @@
     margin: 20;
 }
 body{
-    background-color: rgba(51, 53, 185, 0.97);
+    background-color: rgba(184, 219, 41, 0.97);
 }
 /*Header style Start*/
 .container{
@@ -151,4 +151,9 @@ footer p{
     width: 100px;
     height: 30px;
     border-radius: 12px;
+}
+.a1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
 }
